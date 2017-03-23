@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SkipSelfStartManager</string>
+    <string name="app_user_auto_start">由于Android系统限制，请您手动开启本软件自启动权限，并将此软件设置为受保护应用以及允许后台运行，从而保障软件运行的最佳环境</string>
+
+</resources>
