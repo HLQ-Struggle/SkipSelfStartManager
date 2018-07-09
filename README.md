@@ -1,5 +1,9 @@
 > LZ-Says：话说现在流氓软件多不胜数，在反感的同时，我们确实应该从技术的角度去分析，为什么他们能够做到所谓的流氓呢？技术不分错对，关键在于使用技术的人去如何运用相关技术~
 
+欢迎关注LZ个人公众号~ 不定期发布博文~
+
+![](https://github.com/HLQ-Struggle/MaterialDesignStudy/blob/master/image/hlq_gzh.jpg)
+
 博文地址如下，欢迎点击~
 
 http://blog.csdn.net/u012400885/article/details/65515941
